@@ -1,6 +1,6 @@
 {
-  "name": "KConnect",
-  "tagline": "where knowledge connects people",
-  "body": "KConnect is an academic project.\r\n\r\nThis PHP application is a public forum which helps the students to post their questions and in response they can share their ideas by commenting answers to those questions. This will not only connect the people on the grounds of knowledge, but also creates a healthy discussion virtually.",
+  "name": "Taxi Ride Sharing",
+  "tagline": "Producing a short and cost effective route",
+  "body": "Taxi Ride Sharing is an academic project.\r\n\r\nThis Novel algorithm will not only provide a shortest path and the shared path for the ride but also gives the cost effective path. Here two users from different sources with same destination will be given a shared path which is shortest as well as cost effective.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
